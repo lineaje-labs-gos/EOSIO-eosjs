@@ -1,6 +1,6 @@
 {
   "name": "eosjs",
-  "version": "22.1.0",
+  "version": "22.1.0-lineaje-01",
   "description": "Talk to eos API",
   "main": "dist/index.js",
   "scripts": {
@@ -22,9 +22,15 @@
   },
   "author": "block.one",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/EOSIO/eosjs.git"
+    "url": "https://github.com/lineaje-labs-gos/EOSIO-eosjs"
   },
   "dependencies": {
     "bn.js": "5.2.0",
